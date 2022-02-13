@@ -3,6 +3,9 @@ package seoul.core.member;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import seoul.core.AppConfig;
+import seoul.core.member.Grade;
+import seoul.core.member.Member;
+import seoul.core.member.MemberService;
 
 
 class MemberServiceTest {
